@@ -1,0 +1,16 @@
+ul .key {
+        position: relative;
+        width: 100px;
+        height: 100px;
+        border: 1px solid black;
+        margin-right: 10px;
+        background: #FF69B4;
+        border-radius: 5px;
+        box-shadow: 0px 3px 5px #666;
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+        padding-bottom: 10px;
+        font-weight: bold;
+}
